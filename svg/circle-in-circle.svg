@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <symbol viewBox="0 0 32 32" id="inner-circle">
+  <symbol viewBox="0 0 32 32" id="circle-in-circle">
     <g>
       <circle cx="16" cy="16" r="13"/>
       <circle fill="currentColor" cx="16" cy="16" r="9" />
     </g>
   </symbol>
-  <use xlink:href="#inner-circle"></use>
+  <use xlink:href="#circle-in-circle"></use>
 </svg>
