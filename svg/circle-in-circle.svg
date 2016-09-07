@@ -5,5 +5,11 @@
       <circle fill="currentColor" cx="16" cy="16" r="9" />
     </g>
   </symbol>
-  <use xlink:href="#circle-in-circle"></use>
+  <use xlink:href="#circle-in-circle">
+    <style>
+      color: pink;
+      fill: purple;
+      stroke: brown;
+    </style>
+  </use>
 </svg>
